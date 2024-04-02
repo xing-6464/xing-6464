@@ -4,7 +4,7 @@ web前端工程师
 
 # 个人频道 Channels
 
-* **GitHub**: [bennyhuo](https://github.com/xing-6464)
+* **GitHub**: [xing-6464](https://github.com/xing-6464)
 
 # 技能概述 Skills
 
